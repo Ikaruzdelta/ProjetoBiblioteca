@@ -1,0 +1,12 @@
+Nome: teste01
+Genero: ciencia
+Quantidade : 100
+Valor : 1000
+Codigo do Livro: 123
+================================================
+Nome: sla
+Genero: nao sei
+Quantidade : 10
+Valor : 100
+Codigo do Livro: 123
+================================================

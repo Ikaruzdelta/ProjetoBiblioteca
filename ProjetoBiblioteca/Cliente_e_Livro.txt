@@ -1,0 +1,16 @@
+Cliente: icaro
+CPF: 06579381574
+Endereco: francisco loiola da silva
+Nome: teste01
+Genero: ciencia
+Codigo do Livro: 123
+Data de aluguel: 7/4/2021
+=================================
+Cliente: icaro
+CPF: 4567899
+Endereco: rua
+Nome: sla
+Genero: nao sei
+Codigo do Livro: 123
+Data de aluguel: 7/4/2021
+=================================

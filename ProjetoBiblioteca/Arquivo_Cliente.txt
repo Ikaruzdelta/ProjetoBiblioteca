@@ -1,0 +1,8 @@
+Cliente: icaro
+CPF: 06579381574
+Endereco: francisco loiola da silva
+=================================
+Cliente: icaro
+CPF: 4567899
+Endereco: rua
+=================================
