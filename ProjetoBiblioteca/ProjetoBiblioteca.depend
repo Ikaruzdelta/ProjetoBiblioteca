@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1617933176 source:c:\users\ikaru\onedrive\documentos\codblocksprojects\projetobiblioteca\projetobiblioteca\main.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+
